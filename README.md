@@ -4,3 +4,4 @@
    
 - Tensorflow, Keras
    
+  sigmoid 함수를 사용하여 helmet 과 no helmet으로 분류
